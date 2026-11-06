@@ -1,26 +1,26 @@
 # Hi, I'm Ali Hassan 👋
-### SaaS Architect & High-Output Software Engineer
+### SaaS Front-End Engineer & UI Architect
 
-Building production-ready, lightning-fast web applications with clean, type-safe cloud architecture, engineering highly scalable software infrastructure capable of handling millions of users.
+Building production-ready, lightning-fast web layouts with clean TypeScript and modular design patterns. Engineering highly scalable frontend systems optimized for absolute runtime stability and zero viewport lag.
+
 
 ---
 
 ### 🚀 What I Do Best
-- **Frontend Architecture:** Blazing-fast web layouts using Tailwind CSS.
-- **Data & Serverless Pipelines:** Secure database modeling with Prisma ORM deployed on Vercel Edge Networks.
-- **Client Discovery:** Architecting digital transformations for local & global businesses to maximize revenue.
+- Frontend Architecture: Blazing-fast web layouts using Tailwind CSS v4 and Next.js 15.
+- Type-Safe Ingestion: Structuring deterministic data entry layers and secure browser runtimes.
+- Performance Tuning: Profiling layout constraints to eliminate rendering regressions on mobile displays.
 
 ---
 
 ### 🛠️ Tech Stack & Cloud Infrastructure
 - **Languages:** JavaScript (ES6+), TypeScript
-- **Frameworks:** HTML5, Semantic CSS, Tailwind CSS
-- **Database & Services:** Prisma ORM, PostgreSQL, Formspree Secure APIs
-- **DevOps & Cloud:** Git, GitHub Actions, Vercel Global CDN
+- Frameworks & Tools: Next.js 15 (App Router), React, Tailwind CSS v4, Vite, HTML5/CSS3
+- DevOps & Workspace: WSL2 (Ubuntu Linux), Git/GitHub, Vercel Global Edge
 
 ---
 
 ### 📥 Let's Connect & Scale Your Business
-- 🌐 Portfolio: [Coming Soon]
+- 🌐 Portfolio: https://apex-fitness-monolith.vercel.app/
 - 💼 LinkedIn: [https://www.linkedin.com/in/alihassan-eng ]
 - 🐦 X (Twitter): [@alihassan_eng](https://x.com/alihassan_eng)

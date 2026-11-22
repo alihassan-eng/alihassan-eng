@@ -1,4 +1,5 @@
-### Hi, I'm Ali Hassan 👋
+# Hi, I'm Ali Hassan 👋
+
 
 **Full-Stack Product Engineer** building fast, secure web applications and B2B SaaS products with **Next.js, TypeScript, PostgreSQL, and AI**.
 
